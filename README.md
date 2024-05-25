@@ -2,7 +2,7 @@
 
 This was make for showing and Present Ads in car to promote the product.
 
-## Dev :
+## Was Made with :
 
 - Vite
 - Vue.Js
