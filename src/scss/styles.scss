@@ -1,1 +1,30 @@
 @import "~bootstrap/scss/bootstrap";
+
+body {
+    overflow: hidden;
+    background-color: black;
+  }
+  
+.h-100 {
+    height: 100vh !important;
+  }
+  
+.swiper-container {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+.img-fluid {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+.large-image,
+.small-image-top,
+.small-image-bottom {
+    height: 100%;
+    width: 100%;
+  }
+  
